@@ -33,12 +33,4 @@ Ussenko, K., & Goncharov, V. I. (2023). *Advances in Reinforcement Learning: A C
 - **Direct Reference:** Acta Scientific Computer Sciences, Volume 5, Issue 5, May 2023  
 - **File Included:** `ASCS-05-0441.pdf` (uploaded in this repository)
 
----
 
-## Notes
-This article meets the requirements of the academic assignment:
-- Published after 2023  
-- Impact Factor above 2  
-- Within the field of Machine Learning  
-- Contains clear, extractable keywords  
-- Verified scientific publication
